@@ -92,3 +92,8 @@
 - Bio: High School Student
 - Github: [SansPapyrus683](https://github.com/SansPapyrus683)
 
+#### Name: Ashwani Kumar
+- Place: India
+- Bio: GNDU Student
+- Github: [SansPapyrus683](https://github.com/akumar0709)
+
